@@ -1,7 +1,7 @@
 **Important note**: If you get the message "Sorry, something went wrong. Reload?" when viewing an *.ipynb - try to open that notebook using nbviewer online, you don't need to install it:
 
- - Open https://nbviewer.jupyter.org/
- - Paste the link to the notebook, for example-`https://github.com/loudlemon/WeRateDogs-data/blob/master/wrangle_act.ipynb`. This site nbviewer works independently of github.
+ - Open https://nbviewer.jupyter.org/github/loudlemon/WeRateDogs-data/blob/master/wrangle_act.ipynb \
+ This site nbviewer works independently of github.
 
 
 # WeRateDogs-data
