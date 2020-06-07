@@ -44,7 +44,7 @@ Because "they are good dogs Brent."
  
  Using Python libraries and Twitter API collect necessary data and extract useful information.
  
-=======
+
 # WeRateDogs-data
 ## Project description
   The dataset represented in this project is the tweet archive of Twitter 
