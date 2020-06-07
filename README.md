@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "images/sure_dog.jpg" >
+<img src = "images/cuty.jpg" >
 </p>
 
 
